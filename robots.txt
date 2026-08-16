@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-dap20d.indocuansite.space/sitemap.xml
